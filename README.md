@@ -2,7 +2,7 @@
 This repository provides code for an unsupervised deep-learning method that models high-dimensional copula densities and enables mutual-information estimation at scale.
 ![Flowchart](Flowchart.jpg)
 # Datasets
-The datasets used in this project are available in the `data/` folder.
+This project uses both synthetic and real datasets. The real datasets are available in the data/ folder.
 # Installation
 The implemented code is developed in python 3.11.5 environement
 
