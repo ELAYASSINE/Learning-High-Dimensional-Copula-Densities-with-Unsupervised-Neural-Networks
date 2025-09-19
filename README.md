@@ -13,6 +13,9 @@ pip install -r requirements.txt
 # Results
  ![Density](Figures/Density.png)
 # High dimensioanl Mutual information Estimation 
-![MI2](Figures/MI2.png)
-![MI5](Figures/MI5.png)
-![MI10](Figures/MI10.png)
+<p align="center">
+  <img src="Figures/MI2.png" alt="MI2" width="32%">
+  <img src="Figures/MI5.png" alt="MI5" width="32%">
+  <img src="Figures/MI10.png" alt="MI10" width="32%">
+</p>
+
